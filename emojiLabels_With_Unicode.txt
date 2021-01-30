@@ -1,0 +1,1053 @@
+\U0001F600::Grinning Face
+\U0001F603::Smiling Face With Open Mouth
+\U0001F604::Smiling Face With Open Mouth And Smiling Eyes
+\U0001F601::Grinning Face With Smiling Eyes
+\U0001F606::Smiling Face With Open Mouth And Closed Eyes
+\U0001F605::Smiling Face With Open Mouth &amp; Cold Sweat
+\U0001F602::Face With Tears of Joy
+\U0001F923::Rolling On The Floor, Laughing
+\U0000263A::Smiling Face
+\U0001F60A::Smiling Face With Smiling Eyes
+\U0001F607::Smiling Face With Halo
+\U0001F642::Slightly Smiling Face
+\U0001F643::Upside-Down Face
+\U0001F609::Winking Face
+\U0001F60C::Relieved Face
+\U0001F60D::Smiling Face With Heart-Eyes
+\U0001F970::Smiling face with smiling eyes and three hearts
+\U0001F618::Face Throwing a Kiss
+\U0001F617::Kissing Face
+\U0001F619::Kissing Face With Smiling Eyes
+\U0001F61A::Kissing Face With Closed Eyes
+\U0001F60B::Face Savouring Delicious Food
+\U0001F61B::Face With Stuck-Out Tongue
+\U0001F61D::Face With Stuck-Out Tongue &amp; Tightly Closed Eyes
+\U0001F61C::Face With Stuck-Out Tongue &amp; Winking Eye
+\U0001F92A::Crazy Face
+\U0001F928::Face With a Raised Eyebrow
+\U0001F9D0::Face With Monocle
+\U0001F913::Nerd Face
+\U0001F60E::Face With Sunglasses
+\U0001F929::Smirking Face With Starry Eyes
+\U0001F973::Face with party blower and party hat
+\U0001F60F::Smirking/Whimsical Face
+\U0001F612::Unamused Face
+\U0001F61E::Disappointed Face
+\U0001F614::Pensive Face
+\U0001F61F::Worried Face
+\U0001F615::Confused Face
+\U0001F641::Slightly frowning face
+\U00002639::Frowning Face
+\U0001F623::Suffering Face
+\U0001F616::Confounded Face
+\U0001F62B::Tired Face
+\U0001F629::Weary Face
+\U0001F97A::Face with begging eyes
+\U0001F622::Crying Face
+\U0001F62D::Loudly Crying Face
+\U0001F624::Face With Look of Triumph
+\U0001F620::Angry Face
+\U0001F621::Pouting Face
+\U0001F92C::Face With Symbols Over The Mouth
+\U0001F92F::Face With Exploding Head
+\U0001F633::Flushed Face
+\U0001F975::Overheated face
+\U0001F976::Freezing face
+\U0001F631::Face Screaming in Fear
+\U0001F628::Fearful Face
+\U0001F630::Face With Open Mouth &amp; Cold Sweat
+\U0001F625::Disappointed but Relieved Face
+\U0001F613::Face With Cold Sweat
+\U0001F917::Hugging Face
+\U0001F914::Thinking Face
+\U0001F92D::Face With Hand Over The Mouth
+\U0001F92B::Exhorting Face
+\U0001F925::Lying Face
+\U0001F636::Face Without Mouth
+\U0001F610::Neutral Face
+\U0001F611::Expressionless Face
+\U0001F62C::Grimacing Face
+\U0001F644::Face With Rolling Eyes
+\U0001F62F::Speechless Face
+\U0001F626::Frowning Face With Open Mouth
+\U0001F627::Anguished Face
+\U0001F62E::Face With Open Mouth
+\U0001F632::Astonished Face
+\U0001F634::Sleeping Face
+\U0001F924::Drooling Face
+\U0001F62A::Sleepy Face
+\U0001F635::Dizzy Face
+\U0001F910::Zipper-Mouth Face
+\U0001F974::Face with unequal eyes and wavy mouth
+\U0001F922::Nauseated Face
+\U0001F92E::Face With Open Mouth, Throwing Up
+\U0001F927::Sneezing Face
+\U0001F637::Face With Medical Mask
+\U0001F912::Face With Thermometer
+\U0001F915::Face With Head Bandage
+\U0001F911::Money-Mouth Face
+\U0001F920::Face With Cowboy Hat
+\U0001F608::Smiling Face With Horns
+\U0001F47F::Goblin
+\U0001F479::Japanese Ogre “Namahage“
+\U0001F47A::Japanese Goblin
+\U0001F921::Clown Face
+\U0001F4A9::Pile of Poo
+\U0001F47B::Ghost
+\U0001F480::Skull
+\U00002620::Skull and Crossbones
+\U0001F47D::Alien
+\U0001F916::Robot Face
+\U0001F383::Pumpkin lantern
+\U0001F63A::Smiling Cat Face With Open Mouth
+\U0001F638::Grinning Cat Face With Smiling Eyes
+\U0001F639::Cat Face With Tears of Joy
+\U0001F63B::Smiling Cat Face With Heart-Eyes
+\U0001F63C::Cat Face With Wry Smile
+\U0001F63D::Kissing Cat Face With Closed Eyes
+\U0001F640::Weary Cat Face
+\U0001F63F::Crying Cat Face
+\U0001F63E::Pouting Cat Face
+\U0001F932::Holding hands up, palms against each other
+\U0001F450::Open Hands
+\U0001F64C::Person Raising Both Hands In Celebration
+\U0001F44F::Clapping Hands
+\U0001F91D::Handshake
+\U0001F44D::“Thumbs-Up” Sign
+\U0001F44E::Thumbs Down Sign
+\U0001F44A::Fist Hand
+\U0000270A::Raised Fist
+\U0001F91B::Fist Pointing Left
+\U0001F91C::Fist Pointing Right
+\U0001F91E::Hand With Crossed Fingers
+\U0000270C::Victory Hand
+\U0001F91F::I Love You Gesture
+\U0001F918::Sign of the Horns
+\U0001F44C::Ok Hand Sign
+\U0001F448::Back Of Hand Pointing To The Left
+\U0001F449::Back Of Hand Pointing To The Right
+\U0001F446::Back Of Hand Pointing Upwards
+\U0001F447::Back Of Hand Pointing Downwards
+\U0000261D::Up Pointing Index
+\U0000270B::Raised Hand
+\U0001F91A::Raised Back of Hand
+\U0001F590::Raised Hand With Fingers Splayed
+\U0001F596::Mr. Spock Greeting
+\U0001F44B::Waving Hand
+\U0001F919::“Call Me” Hand Sign
+\U0001F4AA::Tense Biceps
+\U0001F595::Reversed Hand With Middle Finger Extended
+\U0000270D::Writing Hand
+\U0001F64F::Person With Folded Hands
+\U0001F9B6::Foot
+\U0001F9B5::Leg
+\U0001F484::Lipstick
+\U0001F48B::Kiss Mark
+\U0001F444::Mouth
+\U0001F9B7::Tooth
+\U0001F9B4::Bone
+\U0001F445::Tongue
+\U0001F442::Ear
+\U0001F443::Nose
+\U0001F463::Footprints
+\U0001F441::Eye
+\U0001F440::Eyes
+\U0001F9E0::Brain
+\U0001F5E3::Talking Head
+\U0001F464::Silhouette of a Bust
+\U0001F465::Silhouette Of Two Busts
+\U0001F476::Baby
+\U0001F467::Girl
+\U0001F9D2::Child
+\U0001F466::Boy
+\U0001F469::Woman
+\U0001F9D1::Adult
+\U0001F468::Man
+\U0001F469::Red-haired woman
+\U0001F468::Red-haired man
+\U0001F469::Curly-haired woman
+\U0001F468::Curly-haired man
+\U0001F471::Blond woman
+\U0001F471::Blond man
+\U0001F469::White-haired woman
+\U0001F468::White-haired man
+\U0001F469::Bald woman
+\U0001F468::Bald man
+\U0001F9D4::Bearded person
+\U0001F475::Elderly Woman
+\U0001F9D3::Elderly adult
+\U0001F474::Old Man
+\U0001F472::Man with Chinese cap
+\U0001F473::Person with turban
+\U0001F9D5::Person with scarf
+\U0001F46E::Police woman
+\U0001F46E::Policeman
+\U0001F477::Builder
+\U0001F482::Guardsman
+\U0001F575::Female detective
+\U0001F575::Detective
+\U0001F469::Female staff in public health
+\U0001F468::Male staff in public health
+\U0001F469::Female farmer
+\U0001F468::Male farmer
+\U0001F469::Female cook
+\U0001F468::Male cook
+\U0001F469::Female student
+\U0001F468::Male student
+\U0001F469::Female singer
+\U0001F468::Male singer
+\U0001F469::Female teacher
+\U0001F468::Male teacher
+\U0001F469::Female factory worker
+\U0001F468::Male factory worker
+\U0001F469::Female technologist
+\U0001F468::Male technologist
+\U0001F469::Female office worker
+\U0001F468::Male office worker
+\U0001F469::Female mechanic
+\U0001F468::Male mechanic
+\U0001F469::Female scientist
+\U0001F468::Male scientist
+\U0001F469::Female artist
+\U0001F468::Male artist
+\U0001F469::Female firefighter
+\U0001F468::Male firefighter
+\U0001F469::Female pilot
+\U0001F468::Male pilot
+\U0001F469::Female astronaut
+\U0001F468::Male astronaut
+\U0001F469::Female judge
+\U0001F468::Male judge
+\U0001F470::Bride
+\U0001F935::Man in a tuxedo
+\U0001F478::Princess
+\U0001F934::Prince
+\U0001F9B8::Superhero
+\U0001F9B9::Super villain
+\U0001F936::Mary Christmas
+\U0001F385::Santa Claus
+\U0001F9D9::Magician
+\U0001F9DD::Elf
+\U0001F9DB::Vampire
+\U0001F9DF::Zombie
+\U0001F9DE::Genie
+\U0001F9DC::Mermaid
+\U0001F9DA::Fairy
+\U0001F47C::Baby Angel
+\U0001F930::Pregnant woman
+\U0001F931::Breastfeeding
+\U0001F647::Person Bowing Deeply
+\U0001F481::Information Desk Person
+\U0001F645::Face With No Good Gesture
+\U0001F646::Face With Ok Gesture
+\U0001F64B::Happy Person Raising One Hand
+\U0001F926::Man Grabbing His Head
+\U0001F937::Person Shrugs
+\U0001F64E::Pouting Person
+\U0001F64D::Frowning Person
+\U0001F487::Person at the hairdresser's
+\U0001F486::Person is being massaged
+\U0001F9D6::Person in Steam Sauna
+\U0001F485::Nail Polish
+\U0001F483::Dancing
+\U0001F57A::Dancing Man
+\U0001F46F::Women With Bunny Ears
+\U0001F574::Hovering Man in Suit
+\U0001F6B6::Pedestrian
+\U0001F3C3::Runner
+\U0001F46B::Man and Woman Holding Hands
+\U0001F46D::Two Women Holding Hands
+\U0001F46C::Two Men Holding Hands
+\U0001F491::Couple With Heart
+\U0001F48F::Kiss
+\U0001F46A::Family
+\U0001F9F6::Ball of wool
+\U0001F9F5::Thread reel
+\U0001F9E5::Coat
+\U0001F97C::Laboratory coat
+\U0001F45A::Woman's Clothes
+\U0001F455::T-Shirt
+\U0001F456::Jeans
+\U0001F454::Shirt With Tie
+\U0001F457::Dress
+\U0001F459::Bikini
+\U0001F458::Kimono
+\U0001F97F::Ballerina
+\U0001F460::High-Heeled Shoe
+\U0001F461::Woman's Sandal
+\U0001F462::Ladies boots
+\U0001F45E::Man's Shoe
+\U0001F45F::Sports shoe
+\U0001F97E::Hiking boot
+\U0001F9E6::Socks
+\U0001F9E4::Gloves
+\U0001F9E3::Scarf
+\U0001F3A9::Top Hat
+\U0001F9E2::Baseball cap
+\U0001F452::Woman's Hat
+\U0001F393::Alumnus Hat
+\U000026D1::Rescue Worker's Helmet
+\U0001F451::Crown
+\U0001F48D::Ring
+\U0001F45D::Clutch
+\U0001F45B::Wallet
+\U0001F45C::Handbag
+\U0001F392::Satchel
+\U0001F9F3::Suitcase
+\U0001F453::Glasses
+\U0001F576::Dark Sunglasses
+\U0001F97D::Safety glasses
+\U0001F302::Closed umbrella
+\U0001F436::Dog Face
+\U0001F431::Cat face
+\U0001F42D::Mouse face
+\U0001F439::Hamster Face
+\U0001F430::Bunny Face
+\U0001F98A::Fox Face
+\U0001F43B::Bear
+\U0001F43C::Panda
+\U0001F428::Koala
+\U0001F42F::Tiger Face
+\U0001F437::Pig Head
+\U0001F43D::Pig's snout
+\U0001F981::Lion Face
+\U0001F42E::Cow face
+\U0001F438::Frog Face
+\U0001F435::Monkey Face
+\U0001F648::See-No-Evil Monkey
+\U0001F64A::Speak-No-Evil Monkey
+\U0001F649::Hear-No-Evil Monkey
+\U0001F412::Monkey
+\U0001F414::Chicken
+\U0001F427::Penguin
+\U0001F426::Bird
+\U0001F424::Chick
+\U0001F423::Chick in Eggshell
+\U0001F425::Chick in Frontal View
+\U0001F986::Duck
+\U0001F985::Eagle
+\U0001F989::Owl
+\U0001F987::Bat
+\U0001F43A::Wolf Face
+\U0001F417::Boar
+\U0001F984::Unicorn
+\U0001F41E::Ladybug
+\U0001F99F::Mosquito
+\U0001F997::Cricket
+\U0001F434::Horse Face
+\U0001F577::Spider
+\U0001F578::Cobweb
+\U0001F422::Turtle
+\U0001F40D::Snake
+\U0001F98E::Lizard
+\U0001F996::T-Rex
+\U0001F995::Sauropod
+\U0001F982::Scorpion
+\U0001F419::Octopus
+\U0001F99E::Lobster
+\U0001F980::Crab
+\U0001F421::Puffer Fish
+\U0001F420::Tropical fish
+\U0001F41F::Fish
+\U0001F42C::Dolphin
+\U0001F433::Whale blowing out
+\U0001F40B::Whale
+\U0001F40A::Crocodile
+\U0001F405::Tiger
+\U0001F406::Leopard
+\U0001F993::Zebra
+\U0001F98D::Gorilla
+\U0001F418::Elephant
+\U0001F99B::Hippopotamus
+\U0001F98F::Rhinoceros
+\U0001F42A::Dromedary
+\U0001F42B::Camel
+\U0001F992::Giraffe
+\U0001F998::Kangaroo
+\U0001F41D::Honeybee
+\U0001F41B::Caterpillar
+\U0001F98B::Butterfly
+\U0001F40C::Snail
+\U0001F41A::Sea Shell
+\U0001F403::Water buffalo
+\U0001F402::Ox
+\U0001F404::Cow
+\U0001F40E::Horse
+\U0001F416::Pig
+\U0001F40F::Ram
+\U0001F411::Sheep
+\U0001F999::Llama
+\U0001F410::Goat
+\U0001F98C::Deer
+\U0001F415::Dog
+\U0001F429::Poodle
+\U0001F408::Cat
+\U0001F413::Rooster
+\U0001F983::Turkey
+\U0001F54A::Dove
+\U0001F99A::Peacock
+\U0001F99C::Parrot
+\U0001F9A2::Swan
+\U0001F407::Bunny
+\U0001F99D::Raccoon
+\U0001F9A1::Badger
+\U0001F401::Mouse
+\U0001F400::Rat
+\U0001F43F::Chipmunk
+\U0001F994::Hedgehog
+\U0001F43E::Paw Prints
+\U0001F41C::Ant
+\U0001F409::Dragon
+\U0001F432::Dragon face
+\U0001F335::Cactus
+\U0001F384::Christmas Tree
+\U0001F332::Evergreen Tree
+\U0001F333::Deciduous Tree
+\U0001F334::Palm Tree
+\U0001F331::Seedling
+\U0001F33F::Herbs
+\U00002618::Shamrock
+\U0001F340::Four Leaf Clover
+\U0001F38D::Pine Decoration
+\U0001F38B::Tanabata Tree
+\U0001F343::Leaf Fluttering in the Wind
+\U0001F341::Maple Leaf
+\U0001F344::Mushroom
+\U0001F33E::Ear Of Rice
+\U0001F33A::Hibiscus
+\U0001F337::Tulip
+\U0001F339::Rose
+\U0001F940::Withered Flower
+\U0001F490::Bouquet
+\U0001F338::Cherry Blossom
+\U0001F33C::Blossom
+\U0001F33B::Sunflower
+\U0001F3F5::Rosette
+\U0001F31E::Sun With Face
+\U0001F31D::Full Moon With Face
+\U0001F31B::Waxing crescent moon with face
+\U0001F31C::Waning crescent moon with face
+\U0001F31A::New Moon With Face
+\U0001F311::New Moon
+\U0001F312::Waxing crescent moon
+\U0001F313::Waxing half moon
+\U0001F314::Waxing moon
+\U0001F315::Full Moon
+\U0001F316::Waning moon
+\U0001F317::Waning half moon
+\U0001F318::Waning crescent moon
+\U0001F319::Crescent Moon
+\U0001F30E::Globe with America
+\U0001F30D::Globe with Europe and Africa
+\U0001F30F::Globe With Asia and Australia
+\U00002B50::White Medium Star
+\U0001F31F::Sparkling Star
+\U0001F4AB::Dizzy Symbol
+\U00002728::Sparkles
+\U000026A1::High Voltage
+\U0001F525::Fire
+\U00002604::Comet
+\U00002600::Black Sun With Rays
+\U000026C5::Sun behind cloud
+\U0001F326::Sun behind rain cloud
+\U0001F327::Cloud with rain
+\U000026C8::Thunderstorm cloud and rain
+\U0001F329::Cloud with lightning
+\U0001F328::Cloud with snow
+\U0001F308::Rainbow
+\U00002601::Cloud
+\U00002603::Snowman in Snow
+\U000026C4::Snowman Without Snowflakes
+\U00002744::Snowflake
+\U0001F4A5::Collision Symbol
+\U0001F32C::Wind Blowing Face
+\U0001F4A8::Dash Symbol
+\U0001F32A::Cloud With Tornado
+\U0001F30A::Water Wave
+\U0001F4A7::Droplet
+\U0001F4A6::Splashing Sweat Symbol
+\U00002614::Umbrella with raindrops
+\U00002602::Open Umbrella
+\U0001F32B::Mist
+\U0001F34F::Green Apple
+\U0001F34E::Red Apple
+\U0001F350::Pear
+\U0001F34A::Tangerine
+\U0001F34B::Lemon
+\U0001F34C::Banana
+\U0001F349::Watermelon
+\U0001F347::Grapes
+\U0001F353::Strawberry
+\U0001F348::Melon
+\U0001F352::Cherries
+\U0001F351::Peach
+\U0001F96D::Mango
+\U0001F34D::Pineapple
+\U0001F965::Coconut
+\U0001F951::Avocado
+\U0001F966::Broccoli
+\U0001F96C::Leafy vegetables
+\U0001F345::Tomato
+\U0001F346::Eggplant
+\U0001F955::Carrot
+\U0001F336::Red Pepper
+\U0001F33D::Corncob
+\U0001F360::Roasted Sweet Potato
+\U0001F96F::Bagel
+\U0001F35E::Bread
+\U0001F968::Pretzel
+\U0001F9C0::Chunk Of Cheese
+\U0001F373::Fried Egg in Frying Pan
+\U0001F969::Piece of meat
+\U0001F357::Chicken legs
+\U0001F356::Meat on a bone
+\U0001F32D::Hot dog
+\U0001F35F::French fries
+\U0001F355::Slice Of Pizza
+\U0001F96A::Sandwich
+\U0001F32E::Taco
+\U0001F32F::Burrito
+\U0001F958::Flat pan with food
+\U0001F96B::Can
+\U0001F35D::Spaghetti
+\U0001F35C::Steaming Bowl
+\U0001F372::Pot of food
+\U0001F35B::Curry and rice
+\U0001F363::Sushi
+\U0001F371::Bento box
+\U0001F95F::Stuffed Pasta
+\U0001F364::Fried Prawn
+\U0001F359::Rice Ball
+\U0001F35A::Cooked Rice
+\U0001F358::Rice Cracker
+\U0001F365::Fish Cake With Swirl Design
+\U0001F960::Fortune cookie
+\U0001F96E::Moon cake
+\U0001F362::Oden
+\U0001F361::Dango
+\U0001F367::Scraped ice
+\U0001F368::Ice creme
+\U0001F366::Soft ice
+\U0001F967::Pie
+\U0001F370::Piece Of Cake
+\U0001F9C1::Cupcake
+\U0001F382::Birthday Cake
+\U0001F36E::Pudding
+\U0001F36D::Lollipop
+\U0001F36C::Candy
+\U0001F36B::Chocolate bar
+\U0001F37F::Popcorn
+\U0001F369::Doughnut
+\U0001F36A::Cookie
+\U0001F330::Chestnut
+\U0001F36F::Honey pot
+\U0001F37C::Baby Bottle
+\U00002615::Hot Beverage
+\U0001F375::Teacup without handle
+\U0001F964::Cup with straw
+\U0001F376::Sake Jar And Cup
+\U0001F37A::Beer Mug
+\U0001F37B::Beer Mugs
+\U0001F942::Champagne Glasses
+\U0001F377::Wine Glass
+\U0001F943::Drinking Glass
+\U0001F378::Cocktail Glass
+\U0001F379::Tropical beverage
+\U0001F37E::Bottle With Popping Corks
+\U0001F374::Fork and knife
+\U0001F37D::Fork and knife with plate
+\U0001F963::Bowl with spoon
+\U0001F961::Fast food box
+\U0001F962::Chopsticks
+\U0001F9C2::Salt
+\U0001F697::Automobile
+\U0001F695::Taxi
+\U0001F699::Camper
+\U0001F68C::Omnibus
+\U0001F68E::Trolleybus
+\U0001F3CE::Racing car
+\U0001F693::Police Car
+\U0001F691::Ambulance
+\U0001F692::Fire engine
+\U0001F690::Minibus
+\U0001F69A::Delivery van
+\U0001F69B::Articulated vehicle
+\U0001F69C::Tractor
+\U0001F6B2::Bicycle
+\U0001F3CD::Motorcycle
+\U0001F694::Arriving police car
+\U0001F68D::Arriving bus
+\U0001F698::Arriving car
+\U0001F696::Arriving taxi
+\U0001F6A1::Cable railway
+\U0001F6A0::Mountain cable railway
+\U0001F683::Railway wagon
+\U0001F68B::Streetcar
+\U0001F69E::Mountain railway
+\U0001F69F::Suspension railway
+\U0001F69D::Monorail
+\U0001F684::High-speed train
+\U0001F685::High-speed train with bullet nose
+\U0001F688::City railway
+\U0001F682::Steam locomotive
+\U0001F686::Train
+\U0001F687::Subway
+\U0001F68A::Tram
+\U0001F689::Station
+\U0001F6A8::Police Cars Revolving Light
+\U00002708::Airplane
+\U0001F6EB::Plane departure
+\U0001F6EC::Airplane landing
+\U0001F6E9::Small aircraft
+\U0001F4BA::Seat
+\U0001F680::Rocket
+\U0001F6F8::Flying Saucer
+\U0001F681::Chopper
+\U000026F5::Sailboat
+\U000026F5::Speedboat
+\U0001F6E5::Motorboat
+\U0001F6F3::Passenger liner
+\U000026F4::Ferry
+\U0001F6A2::Ship
+\U00002693::Anchor
+\U000026FD::Fuel pump
+\U0001F6A7::Construction sign
+\U0001F6A6::Vertical traffic light
+\U0001F6A5::Horizontal traffic light
+\U0001F68F::Bus stop
+\U0001F5FA::World Map
+\U0001F5FD::Statue of Liberty
+\U0001F5FC::Tokyo Tower
+\U0001F3F0::European castle
+\U0001F3EF::Japanese castle
+\U0001F3DF::Stadium
+\U0001F3A1::Ferris wheel
+\U0001F3A0::Carousel horse
+\U000026F2::Fountain
+\U000026F1::Open Parasol
+\U0001F3D6::Beach With Parasol
+\U0001F3DD::Desert Island
+\U0001F3DC::Desert
+\U0001F30B::Volcano
+\U000026F0::Mountain
+\U0001F3D4::Snow-Capped Mountain
+\U0001F5FB::Mount Fuji
+\U0001F3D5::Camping
+\U000026FA::Tent
+\U0001F3E0::House
+\U0001F3E1::House With Garden
+\U0001F3D8::Housing Complex
+\U0001F3DA::Derelict House
+\U0001F3D7::Construction Of A Building
+\U0001F3ED::Factory building
+\U0001F3E2::Office Building
+\U0001F3EC::Department store
+\U0001F387::Firework Sparkler
+\U0001F386::Fireworks
+\U0001F3E3::Japanese Post Office
+\U0001F3E4::Post Office
+\U0001F3E5::Hospital
+\U0001F3E8::Hotel
+\U0001F3EA::Convenience store
+\U0001F3EB::School
+\U0001F3E9::Love Hotel
+\U0001F492::Wedding
+\U0001F3DB::Ancient Building
+\U000026EA::Church
+\U0001F54C::Mosque
+\U0001F54D::Synagogue
+\U0001F54B::Kaaba
+\U000026E9::Shinto shrine
+\U0001F6E4::Railroad track
+\U0001F6E3::Highway
+\U0001F5FE::Map Of Japan
+\U0001F391::Moon Viewing Ceremony
+\U0001F3DE::National Park
+\U0001F305::Sunrise
+\U0001F304::Sunrise Above Mountains
+\U0001F320::Falling Star
+\U0001F307::Sunset In The City
+\U0001F306::View of city at dusk
+\U0001F3D9::Skyline
+\U0001F303::Night with stars
+\U0001F30C::Milky Way
+\U0001F309::Bridge at night
+\U0001F301::Misty
+\U000026BD::Soccer Ball
+\U0001F3C0::Basketball
+\U0001F3C8::American football
+\U000026BE::Baseball
+\U0001F94E::Softball
+\U0001F3BE::Tennis
+\U0001F3D0::Volleyball
+\U0001F3C9::Rugby football
+\U0001F94F::Frisbee
+\U0001F3B1::Billiards
+\U0001F3D3::Table tennis racket and ball
+\U0001F3F8::Badminton racket and shuttlecock
+\U0001F3D2::Hockey stick and puck
+\U0001F3D1::Field hockey stick and ball
+\U0001F94D::Lacrosse stick and ball
+\U0001F3CF::Cricket bat and ball
+\U000026F3::Flag in hole
+\U0001F3F9::Bow And Arrow
+\U0001F3A3::Fishing Rod With Fish
+\U0001F3BD::Running shirt with sash
+\U0001F6F9::Skateboard
+\U0001F6F7::Sleigh
+\U000026F8::Skate
+\U0001F94C::Curling stone
+\U0001F3BF::Ski And Ski Boots
+\U000026F7::Skier
+\U0001F3C2::Snowboarder
+\U0001F3CB::Weightlifter
+\U0001F93C::Wrestler
+\U0001F938::Person is doing a cartwheel
+\U000026F9::Person Dribbling Ball
+\U0001F93A::Fencer
+\U0001F93E::Handball
+\U0001F3CC::Person playing golf
+\U0001F3C7::Horse Race
+\U0001F9D8::Person in the lotus position
+\U0001F3C4::Surfer
+\U0001F3CA::Swimmer
+\U0001F93D::Water polo player
+\U0001F6A3::Rowing boat
+\U0001F9D7::Person is climbing
+\U0001F6B5::Mountain biker
+\U0001F6B4::Bicyclist
+\U0001F3C6::Cup
+\U0001F947::First Place Medal
+\U0001F948::Second Place Medal
+\U0001F949::Third Place Medal
+\U0001F3C5::Sport Medal
+\U0001F396::Military medal
+\U0001F397::Reminder Ribbon
+\U0001F3AB::Ticket
+\U0001F39F::Admission tickets
+\U0001F3AA::Big top
+\U0001F939::Juggler
+\U0001F3AD::Performing Arts
+\U0001F3A8::Painter's palette
+\U0001F3AC::Clapperboard
+\U0001F3A4::Microphone
+\U0001F3A7::Headphones
+\U0001F3BC::Full score
+\U0001F3B9::Keyboard
+\U0001F3B7::Saxophone
+\U0001F3BA::Trumpet
+\U0001F3B8::Guitar
+\U0001F3BB::Violin
+\U0001F3B2::Dice
+\U0000265F::Chess piece
+\U0001F47E::Alien Monster
+\U0001F3AF::Direct Hit
+\U0001F3B3::Ninepins
+\U0001F3AE::Game console
+\U0001F3B0::One-armed bandit
+\U0001F9E9::Puzzle piece
+\U00002764::Red Heart
+\U0001F9E1::Orange Heart
+\U0001F49B::Yellow Heart
+\U0001F49A::Green Heart
+\U0001F499::Blue Heart
+\U0001F49C::Purple Heart
+\U0001F5A4::Black Heart
+\U0001F494::Broken Heart
+\U00002763::Heavy Heart Exclamation Mark Ornament
+\U0001F495::Two Hearts
+\U0001F49E::Revolving Hearts
+\U0001F493::Beating Heart
+\U0001F497::Growing Heart
+\U0001F496::Sparkling Heart
+\U0001F498::Heart With Arrow
+\U0001F49D::Heart With Ribbon
+\U0001F49F::Heart Decoration
+\U0000262E::Peace symbol
+\U0000262A::Star and half moon
+\U0001F549::Om Symbol
+\U00002638::Wheel Of Dharma
+\U00002721::Star Of David
+\U0001F52F::Hexagram With Dot
+\U0001F54E::Menorah
+\U0000262F::Yin Yang
+\U00002626::Orthodox Cross
+\U0001F6D0::Place of Worship
+\U000026CE::Ophiuchus
+\U00002653::Pisces
+\U0001F194::ID Key
+\U00002623::Biohazard
+\U0001F4F4::Mobile Phone Off
+\U00002648::Aries
+\U00002649::Taurus
+\U0000264A::Gemini
+\U0000264B::Cancer
+\U0000264C::Leo
+\U0000264D::Virgo
+\U0000264E::Libra
+\U0000264F::Scorpius
+\U00002650::Sagittarius
+\U00002651::Capricorn
+\U00002652::Aquarius
+\U0001F4AE::White Flower
+\U0001F004::Mahjong Game Stone “Red Dragon”
+\U0001F251::Acceptable
+\U0001F4F3::Vibration Mode
+\U0001F236::Subject To Fees
+\U0001F21A::Without Fees
+\U0001F23A::Open
+\U0001F238::Application
+\U0001F237::Monthly/Moon Sign
+\U00002734::Eight-Pointed Star
+\U0001F19A::VS Button
+\U0001F250::Bargain
+\U00003299::Secret
+\U00003297::Congratulations
+\U0001F234::Passed
+\U0001F235::Full
+\U0001F239::Discount
+\U0001F232::Prohibition
+\U0000274C::Cross Mark
+\U0001F38F::Carp Streamer
+\U000026D4::No Entry
+\U0001F4DB::Name Badge
+\U0001F6AB::No Admittance
+\U0001F4A2::Anger Symbol
+\U00002668::Hot Springs
+\U00002753::Question Mark Ornament
+\U00002754::White Question Mark
+\U00002757::Exclamation Mark
+\U00002755::White Exclamation Mark
+\U0000203C::Double Exclamation Mark
+\U0001F4AF::Hundred Points Symbol
+\U0001F531::Trident Emblem
+\U0000269C::Fleur-De-Lis
+\U0000303D::Part Alternation Mark
+\U000026A0::Warning
+\U0001F6B8::Caution Children
+\U0000267B::Recycling Symbol
+\U0001F22F::Reserved
+\U0001F4B9::Chart with uptrend and yen sign
+\U0001F310::Globe With Meridians
+\U0001F4A0::Diamond Shape With a Dot Inside
+\U000024C2::Encircled Latin capital M
+\U0001F300::Cyclone
+\U0001F4A4::Symbol for sleeping
+\U0001F6BE::Water Closet
+\U0001F233::Vacancy
+\U0001F202::Free Of Charge
+\U0001F6C5::Baggage Room
+\U0001F6B9::Men symbol
+\U0001F6BA::Ladies' Washroom
+\U0001F6BC::Baby
+\U0001F3A6::Cinema
+\U0001F523::Input Symbol
+\U0001F196::NG Button
+\U00000030::Zero Key
+\U00000031::One Key
+\U00000032::Two Key
+\U00000034::Four Key
+\U00000037::Seven Key
+\U000020E3::Keycap Number Sign
+\U0001F53D::Downward Button
+\U000027A1::Right Arrow
+\U00002B05::Left Arrow
+\U00002B06::Up Arrow
+\U0001F504::Anticlockwise Open Circle Arrows
+\U0001F3B5::Note
+\U0001F3B6::Music notes
+\U0001F4B2::Dollar sign
+\U0001F4B1::Currency Exchange
+\U00002122::Registered Trademark
+\U000000A9::Copyright Symbol
+\U000000AE::Registered Logo
+\U00003030::Wavy Dash
+\U000027B0::Curly Loop
+\U000027BF::Double Curly Loop
+\U00002716::Heavy Multiplication X
+\U0000267E::Infinity
+\U0001F441::Eye in Speech Bubble
+\U0001F51A::END With Left Arrow Above
+\U0001F519::BACK With Left Arrow
+\U0001F51B::On arrow
+\U0001F51D::Top Arrow
+\U0001F51C::Soon Arrow
+\U00002714::Bold Tick
+\U0001F518::Radio Button
+\U000026AA::White Circle
+\U000026AB::Black Circle
+\U0001F534::Large Red Circle
+\U0001F538::Small orange diamond
+\U0001F539::Small Blue Diamond
+\U0001F533::White Square Key
+\U000025FC::Black Medium Square
+\U0001F508::Loudspeaker
+\U0001F507::Mute speaker
+\U0001F50A::Speaker with three sound waves
+\U0001F514::Bell
+\U0001F515::Bell with slash
+\U0001F4E3::Megaphone
+\U0001F4E2::Speaker for public announcements
+\U0001F4AC::Speech Balloon
+\U0001F4AD::Thought Balloon
+\U0001F5EF::Angry speech bubble
+\U00002660::Spade Suit
+\U00002663::Clubs playing card
+\U00002665::Heart Suit
+\U00002666::Diamonds playing card
+\U0001F0CF::Joker Playing Card
+\U0001F3B4::Japanese Flower Card
+\U0001F51E::No One Under Eighteen
+\U0001F6AD::No Smoking
+\U0000231A::Watch
+\U0001F4F1::Mobile Phone
+\U0001F4F2::Mobile Phone With Rightwards Arrow at Left
+\U0001F4BB::Laptop
+\U00002328::Keyboard
+\U0001F5A5::Desktop Computer
+\U0001F5A8::Printer
+\U0001F5B1::Computer Mouse
+\U0001F5B2::Trackball
+\U0001F579::Joystick
+\U0001F5DC::Compression
+\U0001F4BD::Mini disk
+\U0001F4BE::Disk
+\U0001F4BF::Digital CD
+\U0001F4C0::DVD
+\U0001F4FC::Video Cassette
+\U0001F4F7::Camera
+\U0001F4F8::Camera With Flash
+\U0001F4F9::Video camera
+\U0001F3A5::Film camera
+\U0001F4FD::Film projector
+\U0001F39E::Filmstrip
+\U0001F4DE::Earphone
+\U0000260E::Telephone
+\U0001F4DF::Pager
+\U0001F4E0::Fax machine
+\U0001F4FA::TV set
+\U0001F4FB::Radio
+\U0001F399::Studio microphone
+\U0001F39A::Slider
+\U0001F39B::Control dial
+\U0001F9ED::Compass
+\U000023F1::Stopwatch
+\U000023F2::Timer clock
+\U000023F0::Alarm Clock
+\U0001F570::Mantel clock
+\U0000231B::Sand glass
+\U000023F3::Hourglass With Flowing Sand
+\U0001F50B::Battery
+\U0001F50C::Power plug
+\U0001F529::Bolt And Nut
+\U00002699::Gear
+\U0001F9F1::Brick
+\U0001F4A1::Electric Light Bulb
+\U0001F526::Flashlight
+\U0001F56F::Candle
+\U0001F9EF::Fire extinguisher
+\U0001F6E2::Oil barrel
+\U0001F4B8::Money With Wings
+\U0001F4B5::Dollar banknote
+\U0001F4B4::Yen banknote
+\U0001F4B6::Euro Banknote
+\U0001F4B7::Pound banknote
+\U0001F48E::Gem Stone
+\U00002696::Scales
+\U0001F9F0::Tool box
+\U0001F52B::Pistol
+\U0001F4B0::Moneybag
+\U0001F4B3::Credit card
+\U000026D3::Chain
+\U0001F9F2::Magnet
+\U0001F4A3::Bomb
+\U0001F9E8::Fireworks
+\U0001F52A::Japanese Kitchen Knife
+\U00002694::Crossed swords
+\U0001F6E1::Shield
+\U0001F6AC::Cigarette
+\U000026B0::Coffin
+\U000026B1::Urn
+\U0001F3FA::Amphora
+\U0001F52E::Crystal Ball
+\U0001F4FF::Prayer Beads
+\U0001F9FF::Nazar amulet
+\U0001F488::Barber pole
+\U00002697::Alembic
+\U0001F573::Hole
+\U0001F48A::Pill
+\U0001F489::Syringe
+\U0001F9A0::Microbe
+\U0001F9EC::DNA double helix
+\U0001F9EB::Petri dish
+\U0001F9EA::Test tube
+\U0001F321::Thermometer
+\U0001F9F9::Broom
+\U0001F9FA::Basket
+\U0001F9FB::Paper roll
+\U0001F6BD::Toilet
+\U0001F6C0::Person taking a bath
+\U0001F9FC::Bar of soap
+\U0001F9FD::Sponge
+\U0001F9F4::Lotion bottle
+\U0001F6CE::Service bell
+\U0001F511::Key
+\U0001F5DD::Antique Key
+\U0001F6CF::Bed
+\U0001F6CC::Sleep accommodation
+\U0001F9F8::Teddy bear
+\U0001F5BC::Framed Picture
+\U0001F6CD::Shopping bags
+\U0001F381::Wrapped present
+\U0001F516::Bookmark
+\U0001F5FF::Moai
+\U0001F388::Balloon
+\U0001F3EE::Izakaya Paper Lantern
+\U0001F380::Ribbon
+\U0001F38A::Confetti Ball
+\U0001F389::Party Popper
+\U0001F38E::Japanese Dolls
+\U0001F390::Wind Chime
+\U0001F9E7::Red gift envelope
+\U00002709::Envelope
+\U0001F4E9::Envelope with down arrow at top
+\U0001F4E8::Incoming envelope
+\U0001F4E7::Email
+\U0001F48C::Love Letter
+\U0001F4E5::Inbox
+\U0001F4E4::Outbox
+\U0001F4E6::Parcel
+\U0001F3F7::Label
+\U0001F4EA::Closed mailbox with lowered flag
+\U0001F4EB::Closed mailbox with raised flag
+\U0001F4ED::Open mailbox with lowered flag
+\U0001F4EC::Open mailbox with raised flag
+\U0001F4EE::Mailbox
+\U0001F4EF::Post horn
+\U0001F4DC::Scroll
+\U0001F4C3::Sheet with rolled-up edge
+\U0001F4C4::Sheet with typeface upwards
+\U0001F4D1::Page marker
+\U0001F9FE::Sales receipt
+\U0001F4CA::Bar Chart
+\U0001F4C8::Chart With Uptrend
+\U0001F5F3::Ballot box with ballot paper
+\U0001F5DE::Rolled-up newspaper
+\U0001F4F0::Newspaper
+\U0001F4D3::Notebook
+\U0001F4D4::Notebook with decorative cover
+\U0001F4D2::Ledger
+\U0001F4D5::Closed book
+\U0001F4D7::Green book
+\U0001F4DA::Books
+\U0001F4D6::Opened book
+\U0001F9F7::Safety pin
+\U0001F9EE::Abacus
+\U0001F4CD::Round Pushpin
+\U0001F38C::Crossed Flags
+\U0001F50D::Magnifier tilted to the left
+\U0001F50E::Magnifier tilted to the right
+\U0001F50F::Lock With Ink Pen
+\U0001F513::Open Lock
+\U0001F512::Lock
+\U0001F510::Closed Lock With Key
